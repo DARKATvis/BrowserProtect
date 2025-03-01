@@ -1,0 +1,7 @@
+D:\VS2022\BrowserProtect\BrowserProtect\bin\Debug\BrowserProtect.exe.config
+D:\VS2022\BrowserProtect\BrowserProtect\bin\Debug\BrowserProtect.exe
+D:\VS2022\BrowserProtect\BrowserProtect\bin\Debug\BrowserProtect.pdb
+D:\VS2022\BrowserProtect\BrowserProtect\obj\Debug\BrowserProtect.csproj.AssemblyReference.cache
+D:\VS2022\BrowserProtect\BrowserProtect\obj\Debug\BrowserProtect.csproj.CoreCompileInputs.cache
+D:\VS2022\BrowserProtect\BrowserProtect\obj\Debug\BrowserProtect.exe
+D:\VS2022\BrowserProtect\BrowserProtect\obj\Debug\BrowserProtect.pdb

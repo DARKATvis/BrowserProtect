@@ -9,4 +9,4 @@ When your passwords are saved on your computer, your browser encrypts them. The 
 ## Download
 1. Download/clone this depot
 2. Compile the source code with a C# compiler like Visual Studio
-3. Run it
+3. Run it (It requires administrator rights)

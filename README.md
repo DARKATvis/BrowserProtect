@@ -1,2 +1,2 @@
 # BrowserProtect
-A C# library made to protect your browsers against passwords/cookies stealers
+BrowserProtect is a C# project which make your **browsers** completly **immune to malwares**
